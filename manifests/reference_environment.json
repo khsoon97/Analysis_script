@@ -1,0 +1,28 @@
+{
+  "recorded_date": "2026-10-16",
+  "status": "current_installed_metadata_not_historical_lock",
+  "python": "3.13.11 | packaged by conda-forge | (main, Dec  6 2025, 11:24:03) [GCC 14.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "distributions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "anndata": "0.12.0",
+    "scanpy": "1.11.5",
+    "scikit-learn": "1.7.2",
+    "statsmodels": "0.14.6",
+    "torch": "2.9.1+cu130",
+    "xgboost": "3.1.2",
+    "cupy": "13.6.0",
+    "cuml": "25.12.0",
+    "rapids_singlecell": "0.13.5",
+    "joblib": "1.5.3",
+    "plotly": "6.6.0",
+    "Pillow": "12.1.0",
+    "ipython": "9.8.0",
+    "tqdm": "4.67.1"
+  },
+  "scope": "Recorded installed metadata for distributions directly imported by retained CODEX/scRNA reference; not proof of historical execution or a solved lockfile."
+}

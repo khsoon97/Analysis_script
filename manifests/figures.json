@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "scope": "Saved-value panel reconstruction, not exact manuscript composite; no research tables bundled.",
+  "panels": {
+    "1b": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figure1b_tissue_lineage_counts.csv",
+      "sha256": "496329a3f34a5355adb85510e8883525997005e2e749bbaae1d516777769d02e",
+      "columns": [
+        "Disease",
+        "Run_Tissue_name",
+        "GT_Lineage_Broad",
+        "Cells_n",
+        "Tissue_cells_n",
+        "Tissue_lineage_percent",
+        "Disease_cells_n"
+      ],
+      "description": "Tissue lineage percentages; saved counts, no new aggregation"
+    },
+    "2a": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figure2a_display_marker_model_bubbles.csv",
+      "sha256": "482883b36d78d07bd52beaa61924268d6f7c6e0eb6068fe81e543185bb6c8cc6",
+      "columns": [
+        "Marker_order",
+        "Marker",
+        "Assigned_Lineage",
+        "Model_index",
+        "Model",
+        "Importance",
+        "Importance_norm",
+        "Global_Imp",
+        "P_value_raw_one_sided",
+        "NegLog10_P_display"
+      ],
+      "description": "Saved selected-marker importance and capped Welch P display"
+    },
+    "3a": {
+      "status": "saved_table_replay",
+      "input": "files/step03/checkpoints/mv1/mv1_step03_benchmark_results.csv",
+      "sha256": "bd1c733d563c2acb8ab3d571b419b2bbbd6cdfc0b05962060ae058bd55bfc89e",
+      "columns": [
+        "Model",
+        "Column",
+        "Balanced Acc",
+        "Macro F1",
+        "Weighted F1",
+        "Acc",
+        "N",
+        "Avg_Score"
+      ],
+      "description": "Saved DLBCL broad-lineage benchmark scores (all table models)"
+    },
+    "4a": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figure4a_conditional_dlbcl_subtype_benchmark.csv",
+      "sha256": "2cd063ee1a953bfd1a30eccba863aa8ec27dbd4e5136d895733d029985cc5b7b",
+      "columns": [
+        "Lineage",
+        "Model",
+        "Evaluation_cells_n",
+        "Truth_classes_n",
+        "Balanced_Accuracy",
+        "Macro_F1",
+        "Weighted_F1"
+      ],
+      "description": "Saved conditional subtype benchmark scores (all table models)"
+    },
+    "5c": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figure5c_functional_distance_bin_means.csv",
+      "sha256": "880a3f24a719b3c69fadd4bab516fc71a51dbf953cfdd8bff452166951399cb8",
+      "columns": [
+        "Score",
+        "T_Subset",
+        "Nearest_B_State",
+        "Bin_lower_exclusive_um",
+        "Bin_upper_inclusive_um",
+        "Bin_midpoint_um",
+        "Cells_n",
+        "Mean_score"
+      ],
+      "description": "Saved pooled-cell functional means by distance bin"
+    },
+    "S1c": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figureS1c_changed_cells_confusion_counts.csv",
+      "sha256": "38d363ac7a82d7e6906cb46c97cad7dadc3e5fe5746ef48e1f0989cdd088769e",
+      "columns": [
+        "Stage",
+        "GT_lineage",
+        "Predicted_lineage",
+        "Cells_n",
+        "GT_row_total_n",
+        "GT_row_percent"
+      ],
+      "description": "Changed-cell confusion percentages before and after rescue"
+    },
+    "S3b": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figureS3b_grzb_high_component_posterior_bins.csv",
+      "sha256": "f70514ab2955c1fff3bb6be81845afc7a1d6cb1d741f3fdb277e40a04ea0eaf7",
+      "columns": [
+        "Bin_index",
+        "GRZB_lower",
+        "GRZB_upper",
+        "Cells_n",
+        "GRZB_mean",
+        "High_Component_Prob_median",
+        "Display_min",
+        "Display_max",
+        "Selected_cutoff"
+      ],
+      "description": "Saved GZMB posterior-bin curve and selected cutoff"
+    },
+    "S6e": {
+      "status": "saved_table_replay",
+      "input": "derived_current/figureS6e_pooled_mean_differences.csv",
+      "sha256": "c027cc0961cdec36561e35afc7717084222d76d96f19275ae43f9c76a04610d4",
+      "columns": [
+        "Score",
+        "T_Subset_Group",
+        "Group_A",
+        "Group_B",
+        "Mean_Group_A",
+        "Mean_Group_B",
+        "Mean_Delta_A_minus_B",
+        "Nonmissing_Anchor_n_Group_A",
+        "Nonmissing_Anchor_n_Group_B"
+      ],
+      "description": "Current pooled mean differences; does not reuse older median display"
+    },
+    "1a": {
+      "status": "reference_or_external_input",
+      "description": "Author-edited schematic and Opal overview; obtain approved native master."
+    },
+    "2b\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Rescue diagnostics, spatial and marker plots require selected checkpoint, per-cell coordinates, probabilities or revised panel sources."
+    },
+    "3b\u2013c": {
+      "status": "reference_or_external_input",
+      "description": "Confusion/per-lineage panels require matching selected saved matrices and current layout; reference Final_step03.py."
+    },
+    "4b\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Attribution and subtype panels require frozen Step04B inputs, ALE/signature tables and current layout."
+    },
+    "5a,b,d,e": {
+      "status": "reference_or_external_input",
+      "description": "Paired distances, patient composition and RL displays need dedicated selected sources and layout; reference Steps06/08. No new tests in replay."
+    },
+    "6a\u2013c": {
+      "status": "reference_or_external_input",
+      "description": "Motif display and image examples require selected composition, score and spatial/image sources; reference Step07."
+    },
+    "7a\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Opal analysis excluded; packages and access information only in docs/opal_packages.md."
+    },
+    "S1a,b,d,e": {
+      "status": "reference_or_external_input",
+      "description": "Require selected saved rescue inputs or cell-level examples; reference Step02."
+    },
+    "S2a\u2013b": {
+      "status": "reference_or_external_input",
+      "description": "Require selected iteration-100 OOB and DLBCL matrices; reference Steps02/03."
+    },
+    "S3a,c,d": {
+      "status": "reference_or_external_input",
+      "description": "Require selected saved GMM, marker and subtype sources; reference Step04B."
+    },
+    "S4a\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Require reference OOB and subtype heatmap sources; reference Step04B."
+    },
+    "S5a\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Requires pinned three-arm scRNA metrics and per-cell UMAP coordinates; reference Steps11B/12, no classifier transfer to RNA."
+    },
+    "S6a\u2013d": {
+      "status": "reference_or_external_input",
+      "description": "Requires selected distance, correlation, composition and current q tables; reference Steps06\u201308."
+    },
+    "S7a\u2013e": {
+      "status": "reference_or_external_input",
+      "description": "Opal analysis excluded; packages and access information only."
+    },
+    "TableS1": {
+      "status": "reference_or_external_input",
+      "description": "Clinical aggregate table excluded from code repository; supplied separately by authors."
+    }
+  }
+}

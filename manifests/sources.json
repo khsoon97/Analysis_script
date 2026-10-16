@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "reference_source/Final_step00_figure1A_graphical_abstract.py",
+      "sha256": "8c95edf1dcad0be5d6b8e9c6938ef360e937a5eb6d90cb6bcacdebc589ed2a95",
+      "original_sha256": "0286eacd47a4e6c26e424692213cb082038a6b1cb785fb0a2f3da9e8283ec515",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "0d792aa48014570bee8add54ed8e9752a2fc3f26bc153d7ac5e73949ec7e480a",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step01.py",
+      "sha256": "9134b833b9899fc0c7a059da175ad04e5e00968899011b4c91767ffa693aa1e9",
+      "original_sha256": "75a31b58ad3504021fd6e1c1722f04ad93c6633be2974bf18354d1474a424099",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "75a31b58ad3504021fd6e1c1722f04ad93c6633be2974bf18354d1474a424099",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step02.py",
+      "sha256": "a2bbb63b1e07c65d4a2bd4a518bbe358a161b279c57c1d9ec54ae9bac27d770d",
+      "original_sha256": "e3b28d0ffb012663436556c62ccddb6d8f4e93ca35cb35eb9a0f4316493023d8",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "b2e6161319b6ad0a32f2392d2f7cb87e39370ed192cf89d66b0787f37937045e",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step03.py",
+      "sha256": "881967578ad9844682bc6402cb5b535656f44eee73bd7fbd4113a9618caf726a",
+      "original_sha256": "79760ab3fec0cdb72ec3e686f71dd5f2992fa7a235ee2aa28a4fb8c5d5921c89",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "79760ab3fec0cdb72ec3e686f71dd5f2992fa7a235ee2aa28a4fb8c5d5921c89",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step04B.py",
+      "sha256": "0de1ad9733cdf9681f1dca504f370b4cdc68d9228c5a01ea6b402e27ff3e769f",
+      "original_sha256": "2b91aedfc15481933aab13430acb507a915c636844ff76ad5fe8d76f062beae6",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "2a3bd3159bc70c32c8757abb39816749f4fc3c3c0f07cc747638fbd9db1c559e",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step05.py",
+      "sha256": "2fb3706efb53ef47f5433bc1d3ddac10239eb1d77506ec624c2ec70191ce64a6",
+      "original_sha256": "dad81a990934d508adb935ea212e6c8224f5bfa14dea7d0c93ec5bd9b321fbf1",
+      "role": "inactive_upstream_reference",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "dad81a990934d508adb935ea212e6c8224f5bfa14dea7d0c93ec5bd9b321fbf1",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step06.py",
+      "sha256": "201a34faa11edf034e2bb3496db33ba4492fa5759dcacd3f8c9a3789c85d200f",
+      "original_sha256": "0f0d815b3c3177f6e7783fc58b95480d1b739a25d8d6828a8ec57325115fe5f5",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "0f0d815b3c3177f6e7783fc58b95480d1b739a25d8d6828a8ec57325115fe5f5",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step07.py",
+      "sha256": "8249f359256ff25e1fdd97d8d902e3a9ae6ff421a8d940d81a1ec2e613197a25",
+      "original_sha256": "a28a49bd067858412c03688d6a795a16f3e0278e9683de44f898be8e19599f0b",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "a28a49bd067858412c03688d6a795a16f3e0278e9683de44f898be8e19599f0b",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step08.py",
+      "sha256": "44c4a73567b2f144781e7c4592ba902cacfa925451c30a7b76a73e5e3a8b761d",
+      "original_sha256": "a2106fcb127a6cda0431da725017f115d54aec0b0e4822e1d6fd155461490872",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "a2106fcb127a6cda0431da725017f115d54aec0b0e4822e1d6fd155461490872",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step09_scRNA_01_roider_processing.py",
+      "sha256": "d8dfda3561319e70301dfa955d724869c675f1c4e5788c781bd0230f81e71e1d",
+      "original_sha256": "7946560d100ed029ad4e4497feddc76910364f71854f0ba7b0a4aeca6f95ec12",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "b4724f49e94d2b4fdd4c609462fb48a260af77e44893022e99159781da8361c2",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step10_scRNA_02_gse182434_processing.py",
+      "sha256": "fc4e184c356572ec0bd40a2dbcf82c6373ae78444df02eeede2bf182f574f822",
+      "original_sha256": "0bca2413c6dd0ce887b864b17c92aeed4359f62b4a1696e3881614d1f26dfa39",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "d96b87e04b65335488a617b0efe07673b8736b7fe5c4fb3118c84119a275015e",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_step11B_scRNA_sign_only_sensitivity.py",
+      "sha256": "b7cc88e643b42965cfbc1521e777b92dc73023f525b26ec85d2795239a3d710f",
+      "original_sha256": "287d7d19cd2f18c5a7701eab7df4ee583096e25029a93ea2e89043fbbc381b9f",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/Final_step11_scRNA_03_direct_transfer_validation.py",
+      "sha256": "b235fe465931849b746dd3c8261d0fc81c42680ab725fb69fce13b3a575eb458",
+      "original_sha256": "bf0d70302e0fe5bdd67287eddd34c147ff634602d734b07a5209599ff4aff8c6",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/Final_step12_scRNA_04_figure_export.py",
+      "sha256": "a327bc412f9f25f014255823e7b4acfd4e5064b34131f6570cdcde8b1a94d6b8",
+      "original_sha256": "e0b86878541073273718ef47e6cb252d3413fdcbe7039b90bc124717625d15fc",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "c3f45638404f28f6bb3f333b5ce561709ca2b68b16cb15146bd8a912ced71c42",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/Final_utils.py",
+      "sha256": "a5069dd6a9d5829ba246d1d1929f2b20527666429f547d9df724c3d729fd9760",
+      "original_sha256": "a71a1139f1f927817934e9315008edc7d6711b04dce0cd8a7abb4ff4477c15a5",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "transformation": "output_helper_relocation; english_comments_docstrings_and_display_text",
+      "pre_consolidation_sha256": "ca58320f1d2d916dd7648e34d56b4dfcd66002991cf1c3a86355fa64d48d8478",
+      "pre_english_translation_sha256": "03bbb26bdcce0c97995fdaeb9dd871132587f8bd437ac0edfc9794fd0e64348f",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/V9_transfer_utils.py",
+      "sha256": "d7e6ced8fa490b3814111bf84cd142dba7169d9cc75f137b69adc54dc7c1b6be",
+      "original_sha256": "38c917153c7b00093fad0c9afba9e61af46efc14a92f0c12a82ff07e5ebe7daa",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "38c917153c7b00093fad0c9afba9e61af46efc14a92f0c12a82ff07e5ebe7daa",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/_mlp_subprocess_mv1.py",
+      "sha256": "4ebfce874464aa6580b0ea7b10816ca82990fe5222495a99f296b6045df21672",
+      "original_sha256": "2ca9f4fa7990b5aab679515bdb7fe23ac77f8374727501a4d266d967557ce4d2",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "2ca9f4fa7990b5aab679515bdb7fe23ac77f8374727501a4d266d967557ce4d2",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/class_specific_mlp_cuda_worker.py",
+      "sha256": "376b4cb8eda1f6fdf141a4da7216f1955b8135d8d8da8cc994831babd175238c",
+      "original_sha256": "376b4cb8eda1f6fdf141a4da7216f1955b8135d8d8da8cc994831babd175238c",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/class_specific_weight_extraction_utils.py",
+      "sha256": "8818d9ebbda51c4db0024a8930d128dc2816db58ac54e0548254aa575cec3aac",
+      "original_sha256": "8818d9ebbda51c4db0024a8930d128dc2816db58ac54e0548254aa575cec3aac",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/direct_transfer_validation_utils.py",
+      "sha256": "b513c814cef9269a8dbd441610b6f43f98397146d75bf3db6a8786d5523397d3",
+      "original_sha256": "1db3a28669745ebcd3a7249ad47772ded2399e08c085e0fe22b2ab5410b86df8",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "pre_english_translation_sha256": "fcd1ff8bbd867e907e6c3c22add17962cad1d4dd5e32d3e9b50c6ceb1f8ba7db",
+      "transformation": "portable_source_copy; english_comments_docstrings_and_display_text",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/editable_pptx.py",
+      "sha256": "e98ab4a6c31576d7ddbeffc5f0935123ebdff7b2fb783e3ac988a78ed4485d35",
+      "original_sha256": "7c5b426e6d1b3a631546ee4d17c7c2af728a21f7329ec3254a216f14e3ba1328",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "transformation": "output_helper_relocation; english_comments_docstrings_and_display_text",
+      "pre_consolidation_sha256": "12a8b8377a75df584fe20b2bf1c07271d3d53fedae67c514b90910bcb938db02",
+      "pre_english_translation_sha256": "c8e138625ca20e5a1bca7eb88efef5837a0cfb6b1b5195cade439a29e46f47d8",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/final_fixed_signature_input_core.py",
+      "sha256": "815db7a732ebe6e075e56c5a663bdd740b3fa180a9a2b2b6152ce9cdb6212708",
+      "original_sha256": "815db7a732ebe6e075e56c5a663bdd740b3fa180a9a2b2b6152ce9cdb6212708",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/final_fixed_signature_inputs.py",
+      "sha256": "8bebd7307cb7949e0af3fdef2e97a523b88f614e1c90225e97377f01d118e271",
+      "original_sha256": "8bebd7307cb7949e0af3fdef2e97a523b88f614e1c90225e97377f01d118e271",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    },
+    {
+      "path": "reference_source/final_fixed_signature_validation.py",
+      "sha256": "1c9a0261a8d687477819788f8f93c20b7cd6587c4989fab7aa9b73e2084258e7",
+      "original_sha256": "11e8d7c2b23683e8eb8f86990b14a2e7192c7ca6b1db19976b1f409a44402362",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": false,
+      "transformation": "output_helper_relocation; english_comments_docstrings_and_display_text",
+      "pre_consolidation_sha256": "6a7a11f81e262a5f9df3beb1579f3df7872fedc30cbb81c2c2ff14f68241a8f3",
+      "pre_english_translation_sha256": "fbfcece203dda0049f7303c103b4fc115b84388f3c4567f9da0be49c1000a010",
+      "english_translation_executable_ast_equivalent_except_text": true,
+      "runtime_identifiers_paths_and_numeric_settings_preserved": true
+    },
+    {
+      "path": "reference_source/frozen_dlbcl_marker_response_utils.py",
+      "sha256": "39a4cbb40c374010f0c7d3e32f4c291a8c1e4df9f47244e7f276ea39f7be54cf",
+      "original_sha256": "39a4cbb40c374010f0c7d3e32f4c291a8c1e4df9f47244e7f276ea39f7be54cf",
+      "role": "analysis_reference_not_replay_entrypoint",
+      "path_sanitization_ast_equivalent": true
+    }
+  ],
+  "pinned_runs": {
+    "scRNA": "step02_step04b_dlbcl_ale_signature_scrna_seed42_20260813_01",
+    "scRNA_sensitivity": "sign_only_equal_magnitude_20260824_172147",
+    "Step08": "step08_full8_tpr_noallt_seed42_perm1000_20260821_01",
+    "Step02_attribution": "step02_broad_xgb_mlp_fast_chunk_paired_directional_attribution_seed42_20260810_134034",
+    "Step04B_attribution": "step04b_joint_xgb_mlp_fast_chunk_paired_directional_attribution_seed42_20260810_224723"
+  },
+  "status": "Computational reference with portable path substitutions, output-only helper relocation and English comments/docstrings/display text; executable structure preserved by static validation. Not an executed portable analysis workflow."
+}

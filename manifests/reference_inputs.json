@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "coverage": "Reference computational prerequisites only; not inputs to reproduce.py and not a complete leaf inventory.",
+  "inputs": [
+    {
+      "id": "I01",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step01.h5ad",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I02",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step02.h5ad",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I03",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step03.h5ad",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I04",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step04B_pan_cell.h5ad",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I05",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step06.h5ad",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I06",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_probs_broad.pkl",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I07",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_probs_subtype_04B.pkl",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I08",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_rescued_log.pkl",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I09",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_feature_importance_04B.pkl",
+      "kind": "file",
+      "role": "frozen_CODEX_checkpoint_or_cached_evaluation"
+    },
+    {
+      "id": "I10",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/mv1/mv1_step05_cn.h5ad",
+      "kind": "file",
+      "role": "historical_Step06_upstream_only_not_active_figure_input"
+    },
+    {
+      "id": "I11",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/mv1/step02_dlbcl_ale_marker_response",
+      "kind": "directory",
+      "role": "saved_ALE_and_attribution_plot_source"
+    },
+    {
+      "id": "I12",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/mv1/step04b_dlbcl_ale_marker_response",
+      "kind": "directory",
+      "role": "saved_ALE_and_attribution_plot_source"
+    },
+    {
+      "id": "I13",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/mv1/Step08_runs/step08_full8_tpr_noallt_seed42_perm1000_20260821_01",
+      "kind": "directory",
+      "role": "active_eight_tissue_RL_results_and_hash_manifest"
+    },
+    {
+      "id": "I14",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/mv1",
+      "kind": "directory",
+      "role": "CODEX_tables_must_be_narrowed_by_actual_consumer_before_export"
+    },
+    {
+      "id": "I15",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/transfer_models",
+      "kind": "directory",
+      "role": "frozen_models_for_attribution_reproduction_only_not_scRNA_inputs"
+    },
+    {
+      "id": "I16",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/scRNA/Roider/01_roider_codex_proxy_features.h5ad",
+      "kind": "file",
+      "role": "protected_fixed_signature_proxy_input"
+    },
+    {
+      "id": "I17",
+      "historical_workspace_path": "roider/Analysis/python/Final/checkpoints/scRNA/GSE182434/01_gse182434_codex_proxy_features.h5ad",
+      "kind": "file",
+      "role": "protected_fixed_signature_proxy_input"
+    },
+    {
+      "id": "I18",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/scRNA/fixed_signature/source_inputs",
+      "kind": "directory",
+      "role": "runtime_pinned_Step02_04B_PFI_and_ALE_source_tables"
+    },
+    {
+      "id": "I19",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/scRNA/fixed_signature/step02_step04b_dlbcl_ale_signature_scrna_seed42_20260813_01",
+      "kind": "directory",
+      "role": "completed_fixed_signature_scores_masks_metrics_and_manifest"
+    },
+    {
+      "id": "I20",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/scRNA/fixed_signature/sensitivity/sign_only_equal_magnitude_20260824_172147",
+      "kind": "directory",
+      "role": "completed_three_arm_sign_sensitivity"
+    },
+    {
+      "id": "I21",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/scRNA/scRNA_Roider/tables/codex_gene_proxy_coverage.csv",
+      "kind": "file",
+      "role": "protected_proxy_coverage",
+      "csv_header": [
+        "codex_marker",
+        "feature_col",
+        "requested_genes",
+        "present_genes",
+        "covered",
+        "n_present_genes"
+      ]
+    },
+    {
+      "id": "I22",
+      "historical_workspace_path": "roider/Analysis/python/Final/tables/scRNA/scRNA_GSE182434/tables/codex_gene_proxy_coverage.csv",
+      "kind": "file",
+      "role": "protected_proxy_coverage",
+      "csv_header": [
+        "codex_marker",
+        "feature_col",
+        "requested_genes",
+        "present_genes",
+        "covered",
+        "n_present_genes"
+      ]
+    },
+    {
+      "id": "I39",
+      "historical_workspace_path": "roider/Analysis/python/Final/figures/Figure_\uc218\uc815.pptx",
+      "kind": "file",
+      "role": "optional_Step12_composite_canvas_reference"
+    }
+  ]
+}
